@@ -1,1 +1,0 @@
-# Analisando Cases de Sucesso
